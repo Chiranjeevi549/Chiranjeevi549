@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chiranjeevi549
+- 👋 Hi, I’m @Chiranjeevi
 - 👀 I’m interested in dsa
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on python
