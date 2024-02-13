@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chiranjeevi
-- 👀 I’m interested in dsa
+- 👀 I’m interested in DataStructures and Algorithms
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me gurramchiranjeevi786@gmail.com
 
 <!---
